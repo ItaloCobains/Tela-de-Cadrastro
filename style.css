@@ -42,3 +42,11 @@ body{
     width: 100%;
     outline: 0;
 }
+
+.error{
+    font-size: 11px;
+    background-color: red;
+    color: #fff;
+    padding: 4px;
+    border-radius: 5px;
+}
